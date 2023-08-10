@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Mekit",
+  "siteUrl": "https://blogs.mekit.in",
+  "description": "Mekit - Your Personal Vehicle Manager",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Mekit",
+    "description": "Welcome to Mekit, where innovation meets automotive technology. We're passionate about shaping the future of driving experiences through technology and collaboration. Join us on our blog to stay updated on the latest insights and stories in the world of auto tech."
   }
 }

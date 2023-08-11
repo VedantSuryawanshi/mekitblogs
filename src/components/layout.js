@@ -25,7 +25,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} Mekit</a></p>
+        <p>&copy; {new Date().getFullYear()} Mekit</p>
       </footer>
     </div>
   )
